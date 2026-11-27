@@ -52,7 +52,7 @@ There is no public patch or Beta currently available. Testing and release inform
 
 **Acknowledgements:** Thanks to The_Opponent for sharing work and resources on GitHub, and to ateam for bringing that repository to my attention.
 
-**Acknowledgements:** Thanks to The_Opponent for sharing work and resources on GitHub, and to ateam for bringing that repository to my attention.
+
 
 ## Disclaimer
 
