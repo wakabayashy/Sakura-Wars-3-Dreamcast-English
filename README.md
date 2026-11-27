@@ -50,6 +50,8 @@ There is no public patch or Beta currently available. Testing and release inform
 
 **Project:** wakabayashy
 
+**Acknowledgements:** Thanks to The_Opponent for sharing work and resources on GitHub, and to ateam for bringing that repository to my attention.
+
 ## Disclaimer
 
 This is an unofficial, non-commercial fan translation project. All original game content, trademarks and copyrights belong to their respective owners. No original commercial game files, ROMs or disc images are distributed. Please use your own legally obtained copy of the game.
